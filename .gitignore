@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# excluded large SPICE jars (download via get_stanford_models.sh)
+cococaption/pycocoevalcap/spice/
